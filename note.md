@@ -59,6 +59,9 @@ brew install python
 source install.sh
 # 成功，没报错
 
+
+python main.py
+# 进入网页，输入回车后一直转圈圈；看看generating的地方是个什么逻辑
 ```
 
 
